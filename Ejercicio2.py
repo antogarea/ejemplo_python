@@ -6,3 +6,5 @@ for i in tam:
     lista.extend([(x,y)])
 lista.sort()
 print(lista)
+#No me fue posible utilizar la funcion sort() sin pasar los parametros a enteros
+#Lo probe de mil maneras y solo me funciona de esta manera
